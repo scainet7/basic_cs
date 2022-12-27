@@ -1,0 +1,15 @@
+/Users/snino/Desktop/basic_education_cs/lesson_1/bin/Debug/net6.0/lesson_1
+/Users/snino/Desktop/basic_education_cs/lesson_1/bin/Debug/net6.0/lesson_1.deps.json
+/Users/snino/Desktop/basic_education_cs/lesson_1/bin/Debug/net6.0/lesson_1.runtimeconfig.json
+/Users/snino/Desktop/basic_education_cs/lesson_1/bin/Debug/net6.0/lesson_1.dll
+/Users/snino/Desktop/basic_education_cs/lesson_1/bin/Debug/net6.0/ref/lesson_1.dll
+/Users/snino/Desktop/basic_education_cs/lesson_1/bin/Debug/net6.0/lesson_1.pdb
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/lesson_1.csproj.AssemblyReference.cache
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/lesson_1.AssemblyInfoInputs.cache
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/lesson_1.AssemblyInfo.cs
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/lesson_1.csproj.CoreCompileInputs.cache
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/lesson_1.dll
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/ref/lesson_1.dll
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/lesson_1.pdb
+/Users/snino/Desktop/basic_education_cs/lesson_1/obj/Debug/net6.0/lesson_1.genruntimeconfig.cache
