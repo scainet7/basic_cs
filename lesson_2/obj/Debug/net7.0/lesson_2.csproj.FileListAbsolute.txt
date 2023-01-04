@@ -1,0 +1,15 @@
+/home/snino/Рабочий стол/basic_cs/lesson_2/bin/Debug/net7.0/lesson_2
+/home/snino/Рабочий стол/basic_cs/lesson_2/bin/Debug/net7.0/lesson_2.deps.json
+/home/snino/Рабочий стол/basic_cs/lesson_2/bin/Debug/net7.0/lesson_2.runtimeconfig.json
+/home/snino/Рабочий стол/basic_cs/lesson_2/bin/Debug/net7.0/lesson_2.dll
+/home/snino/Рабочий стол/basic_cs/lesson_2/bin/Debug/net7.0/lesson_2.pdb
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/lesson_2.csproj.AssemblyReference.cache
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/lesson_2.AssemblyInfoInputs.cache
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/lesson_2.AssemblyInfo.cs
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/lesson_2.csproj.CoreCompileInputs.cache
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/lesson_2.dll
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/refint/lesson_2.dll
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/lesson_2.pdb
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/lesson_2.genruntimeconfig.cache
+/home/snino/Рабочий стол/basic_cs/lesson_2/obj/Debug/net7.0/ref/lesson_2.dll
