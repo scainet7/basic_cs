@@ -1,0 +1,8 @@
+D:\Project\basic_cs\education_yjunior\CSLight\CSLight\bin\Debug\CSLight.exe.config
+D:\Project\basic_cs\education_yjunior\CSLight\CSLight\bin\Debug\CSLight.exe
+D:\Project\basic_cs\education_yjunior\CSLight\CSLight\bin\Debug\CSLight.pdb
+D:\Project\basic_cs\education_yjunior\CSLight\CSLight\obj\Debug\CSLight.csproj.AssemblyReference.cache
+D:\Project\basic_cs\education_yjunior\CSLight\CSLight\obj\Debug\CSLight.csproj.SuggestedBindingRedirects.cache
+D:\Project\basic_cs\education_yjunior\CSLight\CSLight\obj\Debug\CSLight.csproj.CoreCompileInputs.cache
+D:\Project\basic_cs\education_yjunior\CSLight\CSLight\obj\Debug\CSLight.exe
+D:\Project\basic_cs\education_yjunior\CSLight\CSLight\obj\Debug\CSLight.pdb
